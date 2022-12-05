@@ -1,25 +1,9 @@
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.sql.SQLOutput;
 import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        // parse input from input.txt
-        //input looks like this
-        /*
-                [D]
-            [N] [C]
-            [Z] [M] [P]
-             1   2   3
-
-            move 1 from 2 to 1
-            move 3 from 1 to 3
-            move 2 from 2 to 1
-            move 1 from 1 to 2
-         */
-
-        // parse input
         ArrayList<String> input = new ArrayList<>();
 
         try {
