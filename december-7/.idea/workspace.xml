@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36636435-35a7-4cd9-98bd-e56cf9cb723c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/december-7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Folder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Negr.java" afterDir="false" />
+    <list default="true" id="36636435-35a7-4cd9-98bd-e56cf9cb723c" name="Changes" comment="feat: december 7th">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../december-8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../december-8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../december-8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../december-8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../december-8/december-8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../december-8/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,18 +23,26 @@
       </list>
     </option>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IakYsEJ621frxwFkxvDdaivyK2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "vue.rearranger.settings.migration": "true"
   }
@@ -49,11 +55,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670427132246</updated>
-      <workItem from="1670427133242" duration="3706000" />
+      <workItem from="1670427133242" duration="3998000" />
+      <workItem from="1670522678007" duration="53000" />
+      <workItem from="1670522739638" duration="38000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: december 7th">
+      <created>1670431023686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670431023686</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="feat: december 7th" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: december 7th" />
   </component>
 </project>
